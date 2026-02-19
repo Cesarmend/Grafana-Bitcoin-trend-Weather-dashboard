@@ -1,0 +1,8 @@
+Connections> Data Sources> grafanacloud-infinity>Security
+
+Allowed hosts section
+Add: api.coingecko.com
+Click Save & test
+
+
+https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true&include_market_cap=true 

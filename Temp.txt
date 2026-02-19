@@ -1,0 +1,21 @@
+Connections> Data Sources> mysql-dash1
+
+
+Host URL: 127.0.0.1:3306
+Database name: grafdb
+Username: grafana
+
+Install
+
+pdc-agent_Windows_x86_64.zip
+
+
+Connections> Connector agent:
+
+c:working folder> pdc.exe 
+-token glc_eyJvIjoiMTY3MDA3NSIsIm4iOiJwZGMtZ3JhZmFuYXBhYmxvLWRlZ
+mF1bHQtcGRjLTZjOGU5MCIsImsiOiJKcTV2MG16NnM0M3A1OUVCVWJFMVU5djEiL
+CJtIjp7InIiOiJwcm9kLXVzLWVhc3QtMyJ9fQ== -cluster prod-us-east-3 -gcloud-hosted-grafana-id 1526785
+
+
+save & test

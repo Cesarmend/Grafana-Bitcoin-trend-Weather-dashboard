@@ -1,6 +1,6 @@
 # Grafana Dashboards: Temperature & Bitcoin Trends
 
-![Project Intro](Pictures/Intro.png)
+![Project Intro](https://github.com/Cesarmend/Grafana-Bitcoin-trend-Weather-dashboard/blob/main/Pictutes/Intro.png)
 
 This repository showcases **Grafana dashboards** for monitoring real-time data:
 

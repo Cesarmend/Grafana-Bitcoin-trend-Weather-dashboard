@@ -11,7 +11,7 @@ This repository showcases **Grafana dashboards** for monitoring real-time data:
 
 ## Temperature and Weather Dashboard
 
-![Temperature & Weather Dashboard](Pictures/cbed9d2b-e900-4a33-82ae-9ed8706106d7.png)
+![Temperature & Weather Dashboard](Pictures/Temp_dashboard.png)
 
 **Highlights:**
 - Temperature changes over time with wind direction overlay.
@@ -21,13 +21,11 @@ This repository showcases **Grafana dashboards** for monitoring real-time data:
 
 This dashboard helps analyze environmental changes, identify patterns, and correlate weather variables over time.
 
-![Temperature Dashboard Overview](Pictures/Temp_dashboard.png)
-
 ---
 
 ## Bitcoin Live Metrics Dashboard
 
-![Bitcoin Live Metrics](Pictures/7450d9bb-4954-4cb2-9d6b-4fdde064e646.png)
+![Bitcoin Live Metrics](Pictures/Bitcoin_trend.png)
 
 **Highlights:**
 - Real-time monitoring of Bitcoin 24h change, volume, market cap, price, and rank.
@@ -35,8 +33,6 @@ This dashboard helps analyze environmental changes, identify patterns, and corre
 - Enables quick trend analysis for trading and portfolio monitoring.
 
 This dashboard is useful for financial analysis, market monitoring, and rapid insights into cryptocurrency movements.
-
-![Bitcoin Trend Overview](Pictures/Bitcoin_trend.png)
 
 ---
 

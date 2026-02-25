@@ -1,6 +1,6 @@
 # Grafana Dashboards: Temperature & Bitcoin Trends
 
-![Project Intro](Pictures/Intro.png)
+![Project Intro](https://github.com/Cesarmend/Grafana-Bitcoin-trend-Weather-dashboard/blob/main/Pictutes/Intro.png)
 
 This repository showcases **Grafana dashboards** for monitoring real-time data:
 
@@ -11,7 +11,7 @@ This repository showcases **Grafana dashboards** for monitoring real-time data:
 
 ## Temperature and Weather Dashboard
 
-![Temperature & Weather Dashboard](Pictures/Temp_dashboard.png)
+![Temperature & Weather Dashboard](https://github.com/Cesarmend/Grafana-Bitcoin-trend-Weather-dashboard/blob/main/Pictutes/Temp_dashboard.png)
 
 **Highlights:**
 - Temperature changes over time with wind direction overlay.
@@ -25,7 +25,7 @@ This dashboard helps analyze environmental changes, identify patterns, and corre
 
 ## Bitcoin Live Metrics Dashboard
 
-![Bitcoin Live Metrics](Pictures/Bitcoin_trend.png)
+![Bitcoin Live Metrics](https://github.com/Cesarmend/Grafana-Bitcoin-trend-Weather-dashboard/blob/main/Pictutes/Bitcoin_trend.png)
 
 **Highlights:**
 - Real-time monitoring of Bitcoin 24h change, volume, market cap, price, and rank.
@@ -39,7 +39,8 @@ This dashboard is useful for financial analysis, market monitoring, and rapid in
 ## Tools & Setup
 
 - **Grafana** – primary visualization platform.
-- **Data sources** – can be configured via Prometheus, InfluxDB, or any time-series data source.
+- **Data sources** – can be configured via MySQL, PhpMyAdmin, an a Bitcoin public API.
+  ![XAMP setup](https://raw.githubusercontent.com/Cesarmend/Grafana-Bitcoin-trend-Weather-dashboard/main/Pictures/XAMP%20config.png)![phpMyAdmin](https://github.com/Cesarmend/Grafana-Bitcoin-trend-Weather-dashboard/blob/main/Pictutes/phpMyAdmin.png)
 - **Custom Panels** – gauges, time-series, and tables for comprehensive monitoring.
 
 > Both dashboards can be deployed locally or in the cloud and customized with additional panels or alerts.

@@ -40,7 +40,7 @@ This dashboard is useful for financial analysis, market monitoring, and rapid in
 
 - **Grafana** – primary visualization platform.
 - **Data sources** – can be configured via MySQL, PhpMyAdmin, an a Bitcoin public API.
-  ![XAMP setup](https://raw.githubusercontent.com/Cesarmend/Grafana-Bitcoin-trend-Weather-dashboard/main/Pictures/XAMPconfig.png)![phpMyAdmin](https://github.com/Cesarmend/Grafana-Bitcoin-trend-Weather-dashboard/blob/main/Pictutes/phpMyAdmin.png)
+  ![XAMP setup](https://githubusercontent.com/Cesarmend/Grafana-Bitcoin-trend-Weather-dashboard/main/Pictures/XAMPconfig.png)![phpMyAdmin](https://github.com/Cesarmend/Grafana-Bitcoin-trend-Weather-dashboard/blob/main/Pictutes/phpMyAdmin.png)
 - **Custom Panels** – gauges, time-series, and tables for comprehensive monitoring.
 
 > Both dashboards can be deployed locally or in the cloud and customized with additional panels or alerts.
